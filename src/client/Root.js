@@ -1,8 +1,15 @@
 import React from "react";
 import App from "../Components/App";
+import { HashRouter } from "react-router-dom";
 
-const Root = () => {
-  return <App />;
-};
+class Root extends React.Component {
+  render() {
+    return (
+      <HashRouter>
+        <App />
+      </HashRouter>
+    );
+  }
+}
 
 export default Root;

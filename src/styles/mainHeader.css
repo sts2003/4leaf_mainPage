@@ -1,0 +1,5 @@
+.header .header__menus ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

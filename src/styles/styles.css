@@ -1,0 +1,10 @@
+@import "./reset.css";
+@import "./mainPage.css";
+@import "./mainHeader.css";
+@import "./app.css";
+@import "./mainFooter.css";
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}

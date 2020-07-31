@@ -1,0 +1,16 @@
+.mainPage {
+  width: 100%;
+  height: 6300px;
+  background-color: black;
+}
+
+.mainPage .main__header {
+  color: white;
+}
+
+.mainPage .main__bg {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../assets/4leaf_main_bg.jpg");
+  background-size: cover;
+}
