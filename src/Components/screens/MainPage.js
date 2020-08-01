@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/mainPage.css";
+import "../../styles/mainPage.css"
 
 class MainPage extends React.Component {
   render() {

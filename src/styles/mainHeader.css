@@ -3,3 +3,6 @@
   flex-direction: row;
   justify-content: space-between;
 }
+.header .header__logo {
+  background-image: url("../assets/4leaf_header_logo.png");
+}

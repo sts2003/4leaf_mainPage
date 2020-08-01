@@ -1,10 +1,10 @@
-.main__footer {
+.footer__main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.main__footer .footer__left {
+.footer__main .footer__left {
   width: 630px;
   height: 180px;
   background-image: url("../assets/4leaf_footer_left.png");
