@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "../../styles/styles.css";
-
+import headerLogo from "../../assets/4leaf_header_logo.png";
 
 class MainHeader extends React.Component {
   render() {
@@ -9,9 +9,7 @@ class MainHeader extends React.Component {
       <div className="header">
         <div className="header__logo">
           <NavLink to="/">
-            <div className="header__logo_left">
-              <img src="../../assets/4leaf_header_logo.png" alt="Logo" />
-            </div>
+              <img src={headerLogo} className="header__logo_left"/>
           </NavLink>
         </div>
         <div className="header__menus">
