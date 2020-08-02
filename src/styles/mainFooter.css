@@ -4,9 +4,15 @@
   justify-content: space-between;
 }
 
+
+
 .footer__main .footer__left {
   width: 630px;
   height: 180px;
   background-image: url("../assets/4leaf_footer_left.png");
   background-size: cover;
+}
+
+.footer__main .footer__center {
+ 
 }

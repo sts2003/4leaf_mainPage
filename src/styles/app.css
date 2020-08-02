@@ -1,9 +1,9 @@
 .App {
   background-color: black;
   background-size: cover;
+
 }
 .main__footer {
   width: 100%;
-  height: min-content;
-  background-color: white;
+  height: 160px;
 }

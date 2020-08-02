@@ -10,7 +10,7 @@
 
 .mainPage .main__bg {
   width: 100%;
-  height: 100vh;
+  height: 1280px;
   background-image: url("../assets/4leaf_main_bg.jpg");
   background-size: cover;
 }
