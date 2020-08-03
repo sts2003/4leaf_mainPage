@@ -13,3 +13,11 @@
 
 }
 
+.footer__main .footer__center {
+  color: white;
+}
+
+.footer__main .footer__center div {
+justify-content: center;
+
+}

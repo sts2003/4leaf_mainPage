@@ -3,7 +3,7 @@ import MainHeader from "../Components/screens/MainHeader";
 import { Route } from "react-router-dom";
 import MainPage from "../Components/screens/MainPage";
 import MainFooter from "../Components/screens/MainFooter";
-import "../styles/app.css";
+import "../styles/styles.css";
 
 class App extends React.Component {
   render() {
