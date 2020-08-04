@@ -26,4 +26,13 @@
   background-size: cover;
 
   margin-top: 900px;
+  margin-left: 200px;
+}
+
+.mainPage .comInfo .comInfo__desc {
+  width: 60%;
+  height: 400px;
+  color: #ffffff;
+  margin-top: 900px;
+  margin-left: 200px;
 }

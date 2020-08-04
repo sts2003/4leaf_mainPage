@@ -8,7 +8,13 @@ class MainPage extends React.Component {
         <div className="main__bg"></div>
         <div className="comInfo">
           <div className="comInfo__img"></div>
-          <div className="comInfo__desc"></div>
+          <div className="comInfo__desc">
+            <strong>4</strong>
+            <strong>L</strong>
+            EAF
+            <strong>S</strong>
+            OFTWARE
+          </div>
         </div>
         <div className="priceInfo">
         <div className="priceInfo__img"></div>
