@@ -1,4 +1,5 @@
 import React from "react";
+import "../../styles/mainFooter.css"
 
 class MainFooter extends React.Component {
   render() {
