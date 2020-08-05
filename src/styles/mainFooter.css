@@ -1,6 +1,7 @@
 .footer__main {
   display: flex;
   flex-direction: row;
+  border-top: 1px solid #ffffff;
 }
 
 
@@ -23,6 +24,8 @@
 .footer__main .footer__center div {
 margin-top: 10px;
 
+font-size: 14px;
+margin-left: 100px;
 
 }
 
@@ -32,4 +35,6 @@ margin-top: 10px;
   margin-left: 650px;
   background-image: url("../assets/4leaf_footer_right.png");
   background-size: cover;
+
+  border-left: 1px solid #ffffff;
 }
