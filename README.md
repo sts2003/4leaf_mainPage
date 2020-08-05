@@ -12,3 +12,7 @@
 # 2020 08/04
  ## footer completed
  ## mainPage started
+
+# 2020 08/05 
+ ## main completed
+ ## project finished
